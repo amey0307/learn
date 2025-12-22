@@ -1,2 +1,2 @@
-New feature
-updated feature
+New feature - 0
+updated feature - 1
