@@ -1,2 +1,2 @@
 NEW FILE
-LINE 1 - This is me
+LINE 1 : This is the first line of the new file.
