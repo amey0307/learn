@@ -2,3 +2,4 @@ NEW FILE
 LINE 1 : This is the first line of the new file.
 LINE 2 : This is the 2nd line of the new file.
 LINE 3 : This is the 3rd line of the new file.
+LINE 4 : This is the 3rd line of the new file.
